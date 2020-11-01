@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+---
+title: "BIOL 381"
+author: "Cai McCann"
+date: "Spring 2020"
+output: 
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
+---
 
-You can use the [editor on GitHub](https://github.com/cmccann1/McCann2Bio381/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+--------------------------------------------------------------------------------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Homework 1/2
+ 
+[Homework 1 Typora html](Typora_Homework_1.html) 
 
-### Markdown
+[Homework 1 Typora PDF](Typora_Homework_1.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Homework 3
+[Homework_3](Homework_3.html)
 
-```markdown
-Syntax highlighted code block
+## Homework 4
+[Homework_4](Homework_4.html)
 
-# Header 1
-## Header 2
-### Header 3
+## Homework 5
+[Homework_5](Homework_5.html)
 
-- Bulleted
-- List
+## Homework 6
+[Homework_6](Homework_6.html)
 
-1. Numbered
-2. List
+## Homework 7
+[Homework_7](Homework_7.html)
 
-**Bold** and _Italic_ and `Code` text
+## Homework 8
+[Homework_8](Homework_8.html)
 
-[Link](url) and ![Image](src)
-```
+## Homework 9
+[Homework_9](Homework_9.html)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Homework 10
+[Homework_10](Homework_10.html)
 
-### Jekyll Themes
+## Homework 11
+[Homework_11](Homework_11.html)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cmccann1/McCann2Bio381/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Homework 12
+[Homework_12](Homework_12.html)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Other Notes: 
+ 
+Important note: for the purposes of demonstrating the wide variety of capabilities in R, I used study data from the Vermont Diabetes Information System
+(VDIS) study. VDIS reports on the study design and baseline characteristics of the population, and is well accepted by patients, providers, and laboratory staff. These results also compare favorably to recent national reports.
+
+Here is an article about the study, in case you’d like to learn more about these data <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2518939/>
+
+*Citation: MacLean, C. D., Littenberg, B., Gagnon, M., Reardon, M., Turner, P. D., & Jordan, C. (2004). The Vermont Diabetes Information System (VDIS): Study Design and Subject Recruitment for a Cluster Randomized Trial of a Decision Support System in a Regional Sample of Primary Care Practices. Clinical Trials (London, England), 1(6), 532–544.*
+
+## Acknowledgements: 
+
+Thank you, Lauren Ash, for an eye-popping prettydoc theme and your help during labs!
+
+A special thanks to Dr. Gotelli for his expertise in R and support for the BIOL 381 course. 
+
