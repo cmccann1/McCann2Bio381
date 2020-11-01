@@ -1,7 +1,6 @@
 ---
 title: "BIOL 381"
 author: "Cai McCann"
-date: "Spring 2020"
 output: 
   prettydoc::html_pretty:
     theme: leonids
